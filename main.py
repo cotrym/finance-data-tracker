@@ -49,4 +49,4 @@ while True:
         print("O robô não vai parar. Tentando novamente no próximo ciclo...") 
 
     print("Aguardando 1 minuto para a próxima checagem...\n")
-    time.sleep(60)      esse aqui q qro colocar no lugar
+    time.sleep(60)
